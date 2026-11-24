@@ -6,14 +6,6 @@ short_name: "Electrograph"
 description: "Displays the consumption of electricity in real time and make the larger implications of wastage communicated in an easy, tangible & visual manner.…"
 videos:
   - "https://player.vimeo.com/video/35735240"
-images:
-  - src: 1.jpg
-    alt: "Poster for The Electrograph: objectives, process and prototypes, and technology and mapping, with photos of the cabinet and sand-filled measuring jars"
-    caption: "The Electrograph: objectives, process & prototypes, technology & mapping."
-    fit: contain
-links:
-  - label: "Electrograph documentation (Scribd)"
-    url: "https://www.scribd.com/doc/76036770/Electrograph-Document"
 ---
 
 Displays the consumption of electricity in real time and make the larger implications of wastage communicated in an easy, tangible & visual manner. Electricity is one of the most important entities in our daily lives; as well as in the overall functioning of a country. In the recent past, India’s power consumption has been rapidly increasing, due to steady economic growth and a burgeoning population. If we were made aware of the consequences of using and wasting electricity on our natural environment.. The project is placed within the domain of visualisation, environmental issues, sustainability and surveillance of human activity. Combined with it is a tangible interface through which a display of human interactions and responses is possible. It intends to display the consumption of electricity in real time and make the larger implications of wastage communicated in an easy, tangible and visual manner.

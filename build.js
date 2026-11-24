@@ -113,7 +113,7 @@ function renderImages(list) {
 ${img.caption ? `  ${figcaption(img)}\n` : ''}</figure>`;
   }
   const slides = list.map((img, i) =>
-    `    <figure class="carousel-slide${img.fit === 'contain' ? ' contain' : ''}" role="group" aria-roledescription="slide" aria-label="${i + 1} of ${list.length}">` +
+    `    <figure class="carousel-slide" role="group" aria-roledescription="slide" aria-label="${i + 1} of ${list.length}">` +
     `<img src="${escapeHtml(imageSrc(img.src))}" alt="${escapeHtml(img.alt)}"${i ? ' loading="lazy"' : ''}>${figcaption(img)}</figure>`);
   return `<div class="carousel cs-figure" aria-roledescription="carousel" aria-label="Project images">
   <div class="carousel-track" tabindex="0">
