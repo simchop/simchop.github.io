@@ -5,8 +5,39 @@ title: "Distant Ties"
 short_name: "Distant Ties"
 description: "A pair of smart objects to transfer a person’s tangible presence into other person’s environment, through which they can devise new ways to play,…"
 images:
+  - src: 2.jpg
+    alt: "A woman sipping from a glass Liquimo cup"
+  - src: 3.jpg
+    alt: "A woman reading at her desk with a Liquimo cup glowing pink beside her"
   - src: 1.jpg
     alt: "Hands holding a smartphone showing a pinwheel graphic, from Distant Ties"
+  - src: 4.jpg
+    alt: "A man sitting on the floor using the Whiff app on his phone"
+  - src: 5.jpg
+    alt: "A man blowing on his phone screen to spin the Whiff pinwheel"
+  - src: 6.jpg
+    alt: "A woman at her desk with a paper pinwheel turning on the board behind her"
+  - src: 7.jpg
+    alt: "Poster: Here & There, objects for non-verbal communication, #2 Liquimo"
+    caption: "Here & There: objects for non-verbal communication. #2: Liquimo."
+  - src: 8.jpg
+    alt: "Poster: Here & There, objects for non-verbal communication, #1 The Whiff"
+    caption: "Here & There: objects for non-verbal communication. #1: The Whiff."
+  - src: 9.jpg
+    alt: "A man blowing on a red and yellow paper pinwheel"
+    caption: "Testing the tangible interface."
+  - src: 10.jpg
+    alt: "An Arduino Duemilanove and a breadboard wired with jumper cables"
+    caption: "Arduino & the circuit used for prototyping."
+  - src: 11.jpg
+    alt: "Fingers fitting a small sensor to the bottom of a glass cup"
+    caption: "Temperature sensor at the bottom of the cup."
+  - src: 12.jpg
+    alt: "Two glass cups wired to an Arduino on a table"
+    caption: "Testing connectivity of the pair."
+  - src: 13.jpg
+    alt: "A glass cup in a metal holder glowing with pink and orange light"
+    caption: "Colored light output."
 videos:
   - "https://player.vimeo.com/video/33723643"
 ---

@@ -6,6 +6,9 @@ short_name: "Free Falling"
 description: "An attempt to remediate two very old oral media forms – poetry and public speaking, into a film. Documentation of the project for further details. Today’s…"
 videos:
   - "https://player.vimeo.com/video/33795041"
+links:
+  - label: "Free Falling documentation (Scribd)"
+    url: "https://www.scribd.com/doc/76022566"
 ---
 
 An attempt to remediate two very old oral media forms – poetry and public speaking, into a film. Documentation of the project for further details.

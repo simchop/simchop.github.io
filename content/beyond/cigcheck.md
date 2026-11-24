@@ -35,6 +35,21 @@ images:
     alt: "CigCheck, image 14 of 15"
   - src: 15.jpg
     alt: "CigCheck, image 15 of 15"
+  - src: 16.jpg
+    alt: "Poster: the CigCheck journey from food and smell to quitting smoking, with the problem setting and a day in the life of a smoker"
+    caption: "The journey, from food and smell to CigCheck."
+    fit: contain
+  - src: 17.jpg
+    alt: "Poster: the CigCheck ecosystem and its visualisations of cigarettes smoked"
+    caption: "CigCheck ecosystem and visualisations."
+    fit: contain
+  - src: 18.jpg
+    alt: "Poster: the CigCheck prototype, technology used, email and phone messages, and proposed future direction"
+    caption: "Prototype, technology and future direction."
+    fit: contain
+  - src: 19.jpg
+    alt: "A transmitter circuit board wired inside the white cigarette case"
+    caption: "Transmitter circuit inside the cigarette case."
 ---
 
 Cigarettes have an image, an aura and they are addictive. Smokers are already bombarded with a lot of hard hitting visual content (Ads, Packs, and Graphics) which has not proven very effective. People still smoke due to different individual reasons. A few touch points I wanted to address was the realization of the no. of cigarettes smoked, reminder at the time of smoking, reinstating the negative impacts of smoking even if it is in a subtle manner and resulting in a change of behaviour. With a lot of existing products, CigCheck finds its own niche with regards to personalized interaction that it provides to making the smoker more conscious of his / her smoking habits.

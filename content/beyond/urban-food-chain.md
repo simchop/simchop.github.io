@@ -32,6 +32,50 @@ images:
     alt: "Story of the Urban Food Chain, image 12 of 13"
   - src: 13.jpg
     alt: "Story of the Urban Food Chain, image 13 of 13"
+  - src: 14.jpg
+    alt: "The installation's white panels in an empty gallery"
+  - src: 15.jpg
+    alt: "Prototype parts on the grass: corn, an apple, cherry tomatoes and an Arduino board"
+  - src: 16.jpg
+    alt: "A woman eating a cherry tomato beside a panel of the installation"
+  - src: 17.jpg
+    alt: "Visitors exploring the installation panels"
+  - src: 18.jpg
+    alt: "Visitors reading a panel together"
+  - src: 19.jpg
+    alt: "Two visitors interacting with the panels"
+  - src: 20.jpg
+    alt: "Installation panels with a plant in one alcove"
+  - src: 21.jpg
+    alt: "A panel with a tap and a small screen"
+  - src: 22.jpg
+    alt: "A man picking cherry tomatoes from a shelf inside a panel"
+  - src: 23.jpg
+    alt: "A woman reaching into a panel"
+  - src: 24.jpg
+    alt: "A woman touching a plant in a panel's alcove"
+  - src: 25.jpg
+    alt: "A hand holding a leaf of the plant in a panel"
+  - src: 26.jpg
+    alt: "A woman reading a panel's screen with her phone in hand"
+  - src: 27.jpg
+    alt: "A man pressing a button on a panel beside an apple"
+  - src: 28.jpg
+    alt: "A visitor in a striped sweater at a panel"
+  - src: 29.jpg
+    alt: "A visitor in a striped sweater pressing a panel button"
+  - src: 30.jpg
+    alt: "A laptop, an Arduino and a potted plant during prototyping"
+  - src: 31.jpg
+    alt: "An LCD screen wired to an Arduino"
+  - src: 32.jpg
+    alt: "Hands fitting a wooden panel during construction"
+  - src: 33.jpg
+    alt: "Carpenters building the installation structure in a workshop"
+  - src: 34.jpg
+    alt: "Electronics in a cardboard box resting on technical drawings"
+  - src: 35.jpg
+    alt: "Technical drawings laid out on a board next to a drill"
 videos:
   - "https://player.vimeo.com/video/135270299"
 links:
