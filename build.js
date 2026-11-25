@@ -290,7 +290,10 @@ function renderBeyondCards(pages) {
   return groups.map((g) => {
     const cards = g.pages.map((p) => {
       const d = p.data;
-      const first = heroImages(d)[0];
+      // `cover` is a card-only image, for thumbnails too small to show on the project page
+      if (d.cover && !(d.cover.src && d.cover.alt)) fail(`${p.slug}: cover needs src and alt`);
+      if (d.cover && !fs.existsSync(path.join(__dirname, 'images/beyond', p.slug, d.cover.src))) fail(`${p.slug}: cover image not found: ${d.cover.src}`);
+      const first = d.cover || heroImages(d)[0];
       const media = first
         ? `<div class="card-media"><img src="../images/beyond/${p.slug}/${escapeHtml(first.src)}" alt="${escapeHtml(first.alt)}" loading="lazy"></div>`
         : `<div class="card-media typo"><span>${escapeHtml(d.short_name)}</span></div>`;

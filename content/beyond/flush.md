@@ -4,6 +4,9 @@ group: "Interfaces & research through design"
 title: "Flush: Toilet Finder in India"
 short_name: "Flush"
 description: "Loo finder application using GPS and Geomapping technology. A class room project from the course NTADBM 2011 where IIM & NID had collaborated."
+cover:
+  src: cover.jpg
+  alt: "Illustration of a hand holding a smartphone showing the Flush logo"
 videos:
   - "https://player.vimeo.com/video/34071470"
 ---

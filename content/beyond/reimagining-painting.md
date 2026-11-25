@@ -4,6 +4,9 @@ group: "Interfaces & research through design"
 title: "Re-imagining Illustrator for Tablets"
 short_name: "Re-imagining Illustrator"
 description: "Remediation of the painting palette, trying to incorporate the real life painting experience on Tablets through the advanced technological capabilities of the medium."
+cover:
+  src: cover.jpg
+  alt: "Two hands holding a tablet with a round paint palette and dabs of colour on the screen"
 videos:
   - "https://player.vimeo.com/video/33247164"
 ---
