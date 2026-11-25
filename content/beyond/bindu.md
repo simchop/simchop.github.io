@@ -1,4 +1,5 @@
 ---
+draft: true
 order: 20
 group: "Animation & media"
 title: "Bindu"

@@ -1,4 +1,5 @@
 ---
+draft: true
 order: 21
 group: "Animation & media"
 title: "Photo Ballet"
