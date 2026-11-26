@@ -2,10 +2,10 @@
 order: 2
 page_title: "Records for Life: Gates Foundation & WHO"
 short_name: Records for Life
-description: "Case study: cross-cultural field research in Bihar, Kenya and Indonesia to redesign child immunisation health records, with recommendations presented to WHO, UNICEF, GAVI and the Gates Foundation."
+description: "Case study: cross-cultural field research in India, Kenya and Indonesia to redesign child immunisation health records, with recommendations presented to WHO, UNICEF, GAVI and the Gates Foundation."
 og_description: Redesigning child immunisation records across three countries for the Gates Foundation and WHO.
 eyebrow: Centre for Knowledge Societies × Gates Foundation & WHO · 2013–14
-title: Redesigning child immunisation records across three countries
+title: Redesigning child immunisation records across Global South
 lede: >-
   Cross-cultural field research in India, Kenya and Indonesia into how a paper health card works
   within a family's health system. The findings shaped design and technology recommendations for its
