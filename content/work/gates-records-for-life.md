@@ -7,7 +7,7 @@ og_description: Redesigning child immunisation records across three countries fo
 eyebrow: Centre for Knowledge Societies × Gates Foundation & WHO · 2013–14
 title: Redesigning child immunisation records across three countries
 lede: >-
-  Cross-cultural field research in Bihar (India), Kenya and Indonesia into how a paper health card works
+  Cross-cultural field research in India, Kenya and Indonesia into how a paper health card works
   within a family's health system. The findings shaped design and technology recommendations for its
   digital future.
 types: [Generative, Evaluative]
