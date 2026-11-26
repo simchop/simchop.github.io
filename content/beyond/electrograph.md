@@ -4,6 +4,9 @@ group: "Interfaces & research through design"
 title: "Electrograph"
 short_name: "Electrograph"
 description: "It intends to display the consumption of electricity in real time and make the larger implications of wastage communicated in an easy, tangible & visual manner."
+cover:
+  src: video-cover.jpg
+  alt: "Title frame of the Electrograph video: The Electrograph, measures household usage of electricity, above a house icon with a lightning bolt"
 images:
   - src: 1.jpg
     alt: "Poster for The Electrograph: objectives and properties, process and prototypes, and technology and mapping, with photos of the cabinet and sand-filled measuring jars"
