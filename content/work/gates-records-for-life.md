@@ -15,7 +15,7 @@ meta:
   - label: My role
     value: Design Researcher & Project Manager, leading a 7+ person team
   - label: Where
-    value: Bihar, Kenya, Indonesia; final briefing in London
+    value: India, Kenya, Indonesia; final briefing in London
   - label: Duration
     value: "2013–2014"
 images:
