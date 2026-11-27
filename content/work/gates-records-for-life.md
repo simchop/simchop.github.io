@@ -29,8 +29,8 @@ images:
     alt: A group of women seated around a table reviewing and annotating printed card prototypes
     caption: A group session reviewing and annotating card prototypes.
   - src: rfl-6.jpg
-    alt: Two Indonesian child health booklets, KMS and Buku Kesehatan Ibu dan Anak, held up during an interview
-    caption: Existing child health booklets in Indonesia, shared during an interview.
+    alt: Two Indonesian child immunisation booklets, KMS and Buku Kesehatan Ibu dan Anak, held up during an interview
+    caption: Existing child immunisation booklets in Indonesia, shared during an interview.
 methods:
   - Ethnographic field studies
   - In-depth interviews
