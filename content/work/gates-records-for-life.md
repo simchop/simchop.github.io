@@ -17,7 +17,7 @@ meta:
   - label: Where
     value: Bihar, Kenya, Indonesia; final briefing in London
   - label: Duration
-    value: "2013–2014
+    value: "2013–2014"
 images:
   - src: rfl-3.jpg
     alt: A health worker in Kenya reviewing printed immunisation card prototypes during a field test
